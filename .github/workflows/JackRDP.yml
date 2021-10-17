@@ -1,4 +1,4 @@
-name: amazonRDP
+name: JackRDP
 
 on: workflow_dispatch
 
